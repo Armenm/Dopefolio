@@ -12,6 +12,39 @@
 <br/>
 <br/>
 
+---
+
+<br/>
+
+## ( Update ): Project Achievement 🏆 
+
+**Dopefolio** has been listed as the **Hottest Frontend Tool of 2021** According to **CSS Tricks** 🥳. Thanks to all of you for supporting this project 🙌
+
+**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**   
+
+<br/>
+
+----
+
+<br/>
+
+## Support
+
+I do need **support** from amazing people like you as I started posting on **[My Linkedin](https://linkedin.com/in/rammcodes)** and want each one of you to checkout **[My Linkedin](https://linkedin.com/in/rammcodes)** Profile where I post amazing content related to Programming & Web Development 🚀
+
+<a href="https://linkedin.com/in/rammcodes">
+<div align="center">
+  <img src="https://i.postimg.cc/3RhcKdTD/www-linkedin-com-in-rammcodes-4.png" alt="Ram Maheshwari Linkedin Profile" width="100%" />
+  <br>
+</div>
+</a>
+
+<br/>
+
+---
+
+<br/>
+
 ## Features
 
 - ### **Easy to Setup 💯** 
@@ -727,18 +760,6 @@ Once you press the **Create Site Button** then you will have to follow the 3 ste
 <br>
 
 Then hit the **Deploy site** button and your **Portfolio Site** is live 🥳
-
-<br>
-
----
-
-<br>
-
-## Support 😇
-
-If you find this project to be useful then please **support** me by donating some **Money** on the **Buy Me a Coffee** link below so I can continue chasing my dream of building useful **Open Source projects** that will help the developer community and the general audience and will allow me to change my life as well 😇
-
-### **[Buy Me A Coffee](https://www.buymeacoffee.com/rammcodes)** ❤️
 
 <br>
 
